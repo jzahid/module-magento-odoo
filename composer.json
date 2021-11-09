@@ -1,6 +1,6 @@
 {
-    "name": "qsciences/module-magento-graphql",
-    "description": "Magento2 Graphql Extension",
+    "name": "qsciences/module-magento-odoo",
+    "description": "Magento2 Odoo Connector",
     "require": {
       "php": "^7.3|^7.4"
     },
